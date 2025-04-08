@@ -1,0 +1,352 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 4,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 25,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 5,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 3,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 2,
+			"com.tldraw.shape.geo": 10,
+			"com.tldraw.shape.note": 9,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 0,
+			"com.tldraw.shape.arrow": 5,
+			"com.tldraw.shape.highlight": 1,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 4,
+			"com.tldraw.shape.video": 2,
+			"com.tldraw.binding.arrow": 0
+		}
+	},
+	"records": [
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 2282.0221153561724,
+			"y": 3354.354475762565,
+			"lastActivityTimestamp": 1744131317389,
+			"meta": {}
+		},
+		{
+			"x": 3768.2154373342096,
+			"y": 1883.6162885179542,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qYaERLGP5G6OQ0mD2-XN_",
+			"type": "frame",
+			"props": {
+				"w": 1830.5246372591005,
+				"h": 936.0388128405298,
+				"name": "6. Corrective RAG (CRAG)"
+			},
+			"parentId": "page:page",
+			"index": "a7BQX",
+			"typeName": "shape"
+		},
+		{
+			"x": 1983.8072811852808,
+			"y": 78.9611813492997,
+			"z": 0.12396182281028316,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 1638.8557627633709,
+			"y": 1901.748153758293,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vzb3EXlIMjqVPSO_u4dbu",
+			"type": "frame",
+			"props": {
+				"w": 1870.9301109837409,
+				"h": 1120.3201217054543,
+				"name": "5. Adaptive RAG"
+			},
+			"parentId": "page:page",
+			"index": "a85zy",
+			"typeName": "shape"
+		},
+		{
+			"x": -919.6297938675293,
+			"y": 3448.111652827581,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:W1quzDcgRcCxPUitvXVHu",
+			"type": "frame",
+			"props": {
+				"w": 2057.9730041957187,
+				"h": 800.4443983556953,
+				"name": "7. Self-RAG"
+			},
+			"parentId": "page:page",
+			"index": "a66oC",
+			"typeName": "shape"
+		},
+		{
+			"x": 1204.0253609823478,
+			"y": 612.3757580679319,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:JlWB5-MESDhjVsokIp64O",
+			"type": "frame",
+			"props": {
+				"w": 1782.4102291359532,
+				"h": 756.7042700333404,
+				"name": "2. Simple RAG with Memory"
+			},
+			"parentId": "page:page",
+			"index": "a359X",
+			"typeName": "shape"
+		},
+		{
+			"x": -598.1665331162922,
+			"y": 631.8470134697047,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:knrvWb_IIGFfg2Tm0nOJY",
+			"type": "frame",
+			"props": {
+				"w": 1424.427601006131,
+				"h": 600.8513870610378,
+				"name": "1. Simple RAG"
+			},
+			"parentId": "page:page",
+			"index": "a21w4",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:wYOYuYza_UxOX-QHeFigd"
+			],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 3523.270785471162,
+			"y": 564.8514362844958,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QxwsDGvxVNyWtZKu411tS",
+			"type": "frame",
+			"props": {
+				"w": 1813.0285191880198,
+				"h": 831.0625215524128,
+				"name": "3. Branched RAG"
+			},
+			"parentId": "page:page",
+			"index": "a47Ow",
+			"typeName": "shape"
+		},
+		{
+			"x": 500.3999938964844,
+			"y": 112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qXRKgz0Znf_5AZ2TqCf0j",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "xl",
+				"w": 2573.337646484375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 1
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Retrieval Augmented Generation (RAG) Architectures"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 222.0046450520474,
+			"y": 156.0790105166608,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GYCqPIJX8ytIWNt0xlEeM",
+			"type": "geo",
+			"props": {
+				"w": 229.63567369236216,
+				"h": 161.83850816378185,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "xl",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "shape:knrvWb_IIGFfg2Tm0nOJY",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": -684.5297593657756,
+			"y": 2014.8366734850183,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:c8kC_kay-_J_YXirOIzUg",
+			"type": "frame",
+			"props": {
+				"w": 1795.53223426159,
+				"h": 677.9719889964977,
+				"name": "4. HyDe (Hypothetical Document Embedding)"
+			},
+			"parentId": "page:page",
+			"index": "a53yA",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:size": "xl",
+				"tldraw:color": "black",
+				"tldraw:geo": "rectangle"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "move",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1318.4000244140625,
+				"h": 625.6000366210938
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.25,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 1868.3548825869093,
+			"y": 3534.905042040098,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wYOYuYza_UxOX-QHeFigd",
+			"type": "frame",
+			"props": {
+				"w": 2765.1209766338825,
+				"h": 1391.4805073681157,
+				"name": "8. Agentic RAG"
+			},
+			"parentId": "page:page",
+			"index": "a98zU",
+			"typeName": "shape"
+		}
+	]
+}
